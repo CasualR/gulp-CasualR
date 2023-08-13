@@ -1,0 +1,1 @@
+To start the project, first enter "npm i" in the terminal, and then run "npm run dev"
